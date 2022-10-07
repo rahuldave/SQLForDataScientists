@@ -1,3 +1,6 @@
+For Videos please go to our Etherpad.
+
+
 Session 1:
 
 pdf file in this repo
